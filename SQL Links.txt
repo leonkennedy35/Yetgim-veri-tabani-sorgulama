@@ -1,7 +1,9 @@
-Codeshare:
+Codeshare:(zamana bağlı olarak silinmiş olabilir)
 https://codeshare.io/veri-tabani
 https://codeshare.io/veri-tabani-2
 https://codeshare.io/veri-tabani-3
+https://codeshare.io/veri-tabani-4
+https://codeshare.io/veri-tabani-5
 
 Drawql:
 https://drawsql.app/teams/asd-623/diagrams/spor-db
