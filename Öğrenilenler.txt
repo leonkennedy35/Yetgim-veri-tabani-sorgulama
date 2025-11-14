@@ -1,0 +1,51 @@
+Postgre SQL
+DBeaver
+Docker
+drawsql
+codeshare
+github
+supabase
+bolt.new
+
+SQL
+Select
+create
+table
+id/serial
+varchar()
+not null
+unique
+integer
+text
+null
+default
+check
+from
+as
+where
+insert
+<>!=
+concat (birleştir iki veriyi yazı olarak)
+in
+%
+exist
+concat
+order by
+group by
+avg
+sum
+extract
+now
+abs
+sqrt
+pow/power
+mod
+random
+sin
+tan
+cast
+ascii
+
+Backend as a service (BAAS)
+
+
